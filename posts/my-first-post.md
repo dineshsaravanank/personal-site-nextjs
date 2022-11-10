@@ -13,4 +13,4 @@ Words spoken by God retold verbatim, resisting interpretation, still capture one
 
 And this is why stories fascinate me.
 
-I am starting this blog to capture the effects of stories on me. Along the way, I hope to tell a few of my own too. Dear reader, hopefuly the tales I tell here, facinates you as well.
+I am starting this blog to capture the effects of stories on me. Along the way, I plan to tell a few of my own too. Dear reader, hopefully, the tales I tell here facinates you as well.
