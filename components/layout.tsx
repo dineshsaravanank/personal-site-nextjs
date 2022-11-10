@@ -6,8 +6,8 @@ import styles from "./layout.module.css";
 import utilStyles from '../styles/utils.module.css';
 
 
-const name = 'Dinesh Saravanan Kumaraswamy';
-export const siteTitle = 'My Personal Website';
+const name = 'Garden of Forking Thoughts';
+export const siteTitle = 'Garden of Forking Thoughts by Dinesh';
 
 export default function Layout({ children, home }) {
     return (
@@ -16,7 +16,7 @@ export default function Layout({ children, home }) {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Learn how to build a personal website using Next.js"
+            content="Dinesh Saravanan's personal blog"
           />
           <meta
             property="og:image"
@@ -32,7 +32,7 @@ export default function Layout({ children, home }) {
             <>
               <Image
                 priority
-                src="/images/profile.jpg"
+                src="/images/profile.png"
                 className={utilStyles.borderCircle}
                 height={144}
                 width={144}
@@ -45,7 +45,7 @@ export default function Layout({ children, home }) {
               <Link href="/">
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/profile.png"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
